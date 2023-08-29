@@ -183,8 +183,11 @@ legend{
 }
 .own-part{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
+.underline{
+         text-decoration: underline;
+    }
 .footer-text{
     color: white;
     text-align: center;
