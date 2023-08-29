@@ -177,6 +177,14 @@ legend{
     border: none;
 
 }
+.extra-flower{
+    height: 200px;
+    width: 230px;
+}
+.own-part{
+    display: flex;
+    justify-content: space-around;
+}
 .footer-text{
     color: white;
     text-align: center;
